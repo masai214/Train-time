@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+}
+
+.card-header{
+    color: blue;
+    background-color: black;
+    margin: 10px;
+}
+
+.form-group{
+    margin: 10px;
+}
+
+.btn{
+    margin: 10px;
+}
+
